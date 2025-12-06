@@ -58,7 +58,7 @@ Im a self-taught developer, leader of a mafia clan, and a BAPN player. i've been
  
 **More about me:**
 
-I also like to play all kinds of things, I dont have many friends but thats the least I can do, Ive played Minecraft, Fortnite, Roblox, Left 4 Dead, Call of Duty, Free Fire 😶. u could say Im a professional gamer.
+I also like to play all kinds of things, i dont have many friends but thats the least i can do, ive played Minecraft, Fortnite, Roblox, Left 4 Dead, Call of Duty, Free Fire, Valorant, League of Legends, Combat Master, Osu! 😶. u could say im a professional gamer. is jk
 
 **Statistics:**
 ﾠ
