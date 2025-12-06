@@ -15,9 +15,6 @@ Im a self-taught developer, leader of a mafia clan, and a BAPN player. i've been
 <a href="https://discord.com/api/oauth2/authorize?client_id=885651144632827964&permissions=8&scope=bot">
   <img align="left" alt="Bam-by" width="22px" src="https://github.com/Bam-by/Bam-by/blob/main/assets/Yami-bot.png" />
 </a>
-<a href="https://github.com/Bam-by/Weather-App">
-  <img align="left" alt="Bam-by" width="22px" src="https://github.com/Bam-by/Bam-by/blob/main/assets/cloud.png" />
-</a>
 
 <br>
 <br/>
@@ -48,17 +45,18 @@ Im a self-taught developer, leader of a mafia clan, and a BAPN player. i've been
 
 <br>
 
-**Type Test:**
+**Weather App:**
 
-<a href="https://bam-by.github.io/">
-  <code><img  height="20" src="https://github.com/Bam-by/Bam-by/blob/main/assets/pastille-methode.svg" />
-</a></code>
+<a href="https://github.com/Bam-by/Weather-App">
+  <img align="left" alt="Bam-by" width="22px" src="https://github.com/Bam-by/Bam-by/blob/main/assets/cloud.png" />
+</a>
 
 <br>
+ <br>
  
 **More about me:**
 
-I also like to play all kinds of things, i dont have many friends but thats the least i can do, ive played Minecraft, Fortnite, Roblox, Left 4 Dead, Call of Duty, Free Fire, Valorant, League of Legends, Combat Master, Osu! 😶. u could say im a professional gamer. is jk
+I also like to play all kinds of things, I dont have many friends but thats the least I can do, Ive played Minecraft, Fortnite, Roblox, Left 4 Dead, Call of Duty, Free Fire 😶. u could say Im a professional gamer.
 
 **Statistics:**
 ﾠ
@@ -66,7 +64,6 @@ I also like to play all kinds of things, i dont have many friends but thats the 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bam-by&" alt="Bam-by" /></p>
   
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Bam-by" /></p>
-  
 
   
   
