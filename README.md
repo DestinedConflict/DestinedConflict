@@ -1,4 +1,7 @@
-Hi, I am [Bamby!](https://github.com/Bam-by) 👋
+Hi, Im [Tommy!](https://github.com/Bam-by) 👋
+
+
+Im a self-taught developer, leader of a mafia clan, and a BAPN player. i've been passionate about technology since i was little and have always loved creating things. i've created bots for discord, i also enjoy learning languages, and i think im a music lover. i have narcissistic personality disorder.
 
 <a href="https://github.com/zNovoid/Discord.js-V13-Bot-Template">
   <img align="left" alt="znovoid" width="21px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/discord-icono.png" />
@@ -16,17 +19,12 @@ Hi, I am [Bamby!](https://github.com/Bam-by) 👋
   <img align="left" alt="Bam-by" width="22px" src="https://github.com/Bam-by/Bam-by/blob/main/assets/cloud.png" />
 </a>
 
-
-
-<br />
-
-<br />
-
-Hi, My name is Bamby, self-taught developer, Mafia Clan leader, bapn player. Since I was little I have been passionate about technology n I have always loved creating things. I have created bots for Discord, I also like to learn languages ​​and I think Im a music lover, I hav Narcissistic Personality Disorder :)
+<br>
+<br/>
 
 - 🔭 I'm currently working on [My Discord Bot](http://bit.ly/3FyZ9zs)
 - 🌱 I'm currently learning Javascript
-- 📖 I'm currently learning [French]()
+- 📖 I'm currently learning [Sarcasm](https://es.wikipedia.org/wiki/Sarcasmo)
 - 💻 I'm currently creating various web programming projects in my spare time.
 - 💬 Ask me anything [Here](https://github.com/Bam-by/Bam-by/issues)
 - 💬 My Instagram [Here](https://www.instagram.com/ohno.tommy/)
