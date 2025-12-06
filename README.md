@@ -1,4 +1,4 @@
-Hi, Im [Tommy!](https://github.com/Bam-by) 👋
+Hi, Im [Tommy!](https://github.com/DestinedConflict) 👋
 
 
 Im a self-taught developer, leader of a mafia clan, and a BAPN player. i've been passionate about technology since i was little and have always loved creating things. i've created bots for discord, i also enjoy learning languages, and i think im a music lover. i have narcissistic personality disorder.
