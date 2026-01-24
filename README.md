@@ -43,7 +43,6 @@ I value clean logic, simplicity, and control.
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/discordjs/discordjs-plain.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
 
-<br>
 
 ### More about me
 
