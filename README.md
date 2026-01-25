@@ -1,5 +1,5 @@
 
-## [Tommy](https://github.com/DestinedConflict)
+## Tommy
 
 <a href="https://github.com/Bam-by/Cifrador-Cesar">
   <img align="left" alt="Bam-by" width="21px" src="https://github.com/Bam-by/Bam-by/blob/main/assets/Cifrador-cesar.png" />
@@ -16,14 +16,15 @@ I build things, break them, and rebuild them better.
 - JavaScript
 - HTML / CSS
 - Python 
-- TypeScript (learning)
+- TypeScript
 
 I value clean logic, simplicity, and control.
 
 > Quiet work. Visible results.
 
 ### What I do
-- Discord bots
+- Fix what feels inefficient
+- Bots
 - Small automation tools
 - Personal web projects
 
