@@ -58,7 +58,8 @@ I build things, break them, and rebuild them better.
 ### Contact
 
 - [Instagram](https://instagram.com/ohno.tommy)
-
+> Non-personal account.  
+> Used for automated intake of information.
 ---
 
 I spend most of my time learning how systems behave, and how to make them behave better.
@@ -66,7 +67,7 @@ Progress through iteration.
 
 ### Statistics
   
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DestinedConflict&layout=compact" alt="DestinedConflict" /></p>
+  <p></p>
 
   
   
