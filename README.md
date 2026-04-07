@@ -1,55 +1,68 @@
-
-## Tommy
+## Tommy 
 
 <a href="https://github.com/Bam-by/Cifrador-Cesar">
-  <img align="left" alt="Bam-by" width="21px" src="https://github.com/Bam-by/Bam-by/blob/main/assets/Cifrador-cesar.png" />
+  <img align="left" alt="Cifrador Cesar" width="21px" src="https://github.com/Bam-by/Bam-by/blob/main/assets/Cifrador-cesar.png" />
 </a>
 <a href="https://github.com/Bam-by/Weather-App">
-  <img align="left" alt="Bam-by" width="22px" src="https://github.com/Bam-by/Bam-by/blob/main/assets/cloud.png" />
+  <img align="left" alt="Weather App" width="22px" src="https://github.com/Bam-by/Bam-by/blob/main/assets/cloud.png" />
 </a>
 <br><br>
 
-Self-taught developer.
+Self-taught developer. focused on **networks, automation, and system behavior**. <br>
 I build things, break them, and rebuild them better.
 
-### Currently focused on
-- JavaScript
-- HTML / CSS
-- Python 
-- TypeScript
+### Current focus
 
-I value clean logic, simplicity, and control.
+- Network fundamentals and protocols
+- Automation with Python
+- JavaScript / TypeScript for tooling and interfaces
+- Web technologies (HTML, CSS) as control surfaces
+- System logic, scripting, and small-scale infrastructure
 
-> Quiet work. Visible results.
+> Silent systems.
 
-### What I do
-- Fix what feels inefficient
-- Bots
-- Small automation tools
-- Personal web projects
+### What I build
 
-### Principles
+- Automation scripts and bots
+- Network-aware tools
+- Lightweight web utilities
+- Personal infrastructure projects
+- Experiments related to encryption, data flow, and process optimization
+
+### Engineering principles
+
 - Low noise
-- Clean execution
-- Constant improvement
+- Deterministic behavior over complexity
+- Observability and control
+- Continuous iteration
+- Simplicity as a constraint
 
-### 📫 Reach me:
-- [Instagram](https://instagram.com/ohno.tommy)
-
-
-### Languages ​​and tools:
+### Technologies and tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/discordjs/discordjs-plain.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 
+### Areas of interest
 
-### More about me
+- Networking and protocols
+- Encryption basics
+- Process automation
+- System optimization
+- Tooling for efficiency
 
-I spend most of my time learning, experimenting, and refining ideas.
-Progress over perfection.
+### Contact
+
+- [Instagram](https://instagram.com/ohno.tommy)
+
+---
+
+I spend most of my time learning how systems behave, and how to make them behave better.
+Progress through iteration.
 
 ### Statistics
   
