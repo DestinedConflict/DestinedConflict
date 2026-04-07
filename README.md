@@ -66,7 +66,7 @@ Progress through iteration.
 
 ### Statistics
   
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Bam-by" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DestinedConflict&layout=compact" alt="DestinedConflict" /></p>
 
   
   
